@@ -1,2 +1,5 @@
-# CREDIT-CARD-FRAUD-ANALYSIS
-Analysis and prediction of credit card fraud using machine learning and AI
+For this project, I worked with a dataset of credit card transactions to predict whether a transaction was fraudulent. The dataset contained various features such as the distance from home, transaction amounts, and whether a PIN or chip was used. The goal was to clean and explore the data, build a machine learning model (KNN), and evaluate how well the model performed.
+
+During this process, I used ChatGPT 3.0 mini to help me with several steps. The AI provided suggestions on how to clean the data and gave me ideas for visualizations that helped me understand the relationships between different variables. When I was choosing a model, the AI suggested using KNN and also helped me evaluate the model’s performance by explaining different metrics like accuracy and confusion matrices.
+
+Even though AI helped a lot in speeding things up and providing ideas, I learned that it is important not to rely too much on it without fully understanding what is going on behind the scenes. For example, the AI suggested using certain features or parameters without fully explaining why, which lead to misunderstandings. I had to double-check the visualizations to make sure they were suitable for this project. I also needed to confirm that the AI’s suggestions were accurate and made sense within the context of data science.
